@@ -1,4 +1,4 @@
-#🛍️ Final Sales Dashboard Project
+#Final Sales Dashboard Project
 
 ##📈 Project Overview
 
