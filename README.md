@@ -33,6 +33,28 @@ This is an Excel-based interactive **Sales Dashboard** built to analyze and visu
 
 ## 🗂️ File Structure
 
+---
+
+## 🔄 How to Use
+1. Open the `.xlsm` file in **Microsoft Excel** (enable macros when prompted).
+2. Use the **slicers** and **filters** to explore data by:
+   - Product
+   - Region
+   - Month or Year
+3. Click on buttons (if any) to auto-refresh or clear filters.
+4. Explore all the dashboard sheets to view visual insights.
+
+---
+
+## 📌 Author
+**Sahil F.** — Passionate about data and on the journey to become a Data Analyst/Data Scientist.
+
+---
+
+## 🏷️ Tags
+`#ExcelDashboard` `#SalesAnalysis` `#VBA` `#DataVisualization` `#ExcelProject` `#DataAnalytics`
+
+
 
 
 
