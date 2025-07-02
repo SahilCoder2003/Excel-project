@@ -45,6 +45,8 @@ This is an Excel-based interactive **Sales Dashboard** built to analyze and visu
 4. Explore all the dashboard sheets to view visual insights.
 
 ---
+#Dashboard image
+![Screenshot 2025-07-02 120403](https://github.com/user-attachments/assets/60293811-d178-47ce-acb7-c9407b33e0ed)
 
 ## 📌 Author
 **Sahil F.** — Passionate about data and on the journey to become a Data Analyst/Data Scientist.
